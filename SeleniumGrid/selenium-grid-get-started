@@ -1,0 +1,9 @@
+#Selenium grid get started
+As an automation tester, I want to setup the Selenium grid. So that I can run my automation script with selenium grid driver.
+
+##Prerequisite
+- Docker (Linux container)
+
+##setup
+- Access the folder that contains the `docker-compose.yml` file
+- Open the command line (cmd) and use this command: `docker-compose up`
